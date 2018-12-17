@@ -1,0 +1,67 @@
+/*@import "http://fonts.googleapis.com/css?family=Droid+Sans";*/
+/*form{
+	background-color:#fff
+}
+#maindiv{
+	width:960px;
+	margin:10px auto;
+	padding:10px;
+	font-family:'Droid Sans',sans-serif
+}
+#formdiv{
+	width:500px;
+	float:left;
+	text-align:center
+}
+form{
+	padding:40px 20px;
+	box-shadow:0 0 10px;
+	border-radius:2px
+}*/
+h2{
+	margin-left:30px
+}
+/*.upload{
+	background-color:#5DBCD2;
+	color:#fff;
+	border-radius:5px;
+	padding:8px;
+}
+.upload:hover{
+	cursor:pointer;
+	background:#c20b0b;
+	border:1px solid #c20b0b;
+}*/
+#file{
+	color:green;
+	padding:5px;
+	border:1px dashed #123456;
+	background-color:#f9ffe5
+}
+
+#noerror{
+	color:green;
+	text-align:left
+}
+#error{
+	color:red;
+	text-align:left
+}
+#img{
+	width:9px;
+	border:none;
+	margin-left:-20px;
+	margin-bottom:91px
+}
+.abcd{
+	text-align:center
+}
+.abcd img{
+	height:100px;
+	width:100px;
+	padding:5px;
+	border:1px solid #e8debd
+}
+b{
+	color:#5DBCD2;
+}

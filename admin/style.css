@@ -1,0 +1,33 @@
+#file{
+	color:green;
+	padding:5px;
+	border:1px dashed #123456;
+	background-color:#f9ffe5
+}
+
+#noerror{
+	color:green;
+	text-align:left
+}
+#error{
+	color:red;
+	text-align:left
+}
+#img{
+	width:9px;
+	border:none;
+	margin-left:-20px;
+	margin-bottom:91px
+}
+.abcd{
+	text-align:center
+}
+.abcd img{
+	height:100px;
+	width:100px;
+	padding:5px;
+	border:1px solid #e8debd
+}
+b{
+	color:#5DBCD2;
+}
